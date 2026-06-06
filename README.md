@@ -1,2 +1,2 @@
-# caesare-coin
+# caesare coin core
 cryptocurrency coin Blockchain project Caesare
